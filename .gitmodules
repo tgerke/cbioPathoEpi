@@ -1,0 +1,3 @@
+[submodule "cbioportal"]
+	path = cbioportal
+	url = https://github.com/cBioPortal/cbioportal/
